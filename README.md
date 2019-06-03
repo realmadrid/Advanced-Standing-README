@@ -23,7 +23,7 @@ displaying the information and the other one (administration site) is used for m
   * [Features of the Pages](#features-of-the-pages)
     + [The general site](#the-general-site)
     + [The administration site](#the-administration-site)
-      - [Search](#search)
+      - [Search](#admin-search)
       - [Filter](#filter)
       - [Bold Fields](#bold-fields)
       - [Change History](#change-history)
@@ -420,6 +420,7 @@ Most of the ANU courses, programs, majors, specialisations are clickable, which 
 redirect to the corresponding pages of ANU.  
 
 ### The administration site
+<a name="admin-search"></a>
 #### Search
 All the key fields of the data are searchable via the search box on the top left corner of 
 the pages. Your query text is case insensitive and you can just search a part of the keywords. 
